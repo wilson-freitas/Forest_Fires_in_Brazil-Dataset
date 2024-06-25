@@ -20,4 +20,3 @@ Para iniciar, abra o Jupyter Notebook e execute cada célula do arquivo `Forest-
 
 - Exercícios propostos por Andre Yukio da Universidade dos Dados.
 - Dataset fornecido por Gustavo Modelli no Kaggle.
-
