@@ -14,12 +14,7 @@ O objetivo deste projeto é ter uma introdução prática ao uso do Pandas para 
 
 Para executar o código deste projeto, é necessário ter o Jupyter Notebook instalado.  
 
-Para iniciar, abra o Jupyter Notebook e execute cada célula do arquivo `forest_fires_analysis.ipynb` na ordem em que aparecem.
-
-## Estrutura do Repositório
-
-- `forest_fires_analysis.ipynb`: Notebook principal com o código de tratamento e manipulação de dados.
-- `README.md`: Este arquivo, fornecendo informações sobre o projeto.
+Para iniciar, abra o Jupyter Notebook e execute cada célula do arquivo `Forest-Fires-Tratamento-e-exercicios.ipynb` na ordem em que aparecem.
 
 ## Créditos
 
