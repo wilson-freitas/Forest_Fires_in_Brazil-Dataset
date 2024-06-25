@@ -1,4 +1,28 @@
-# Forest Fires in Brazil: Tratamento e manipulação dos dados.  
-Exercícios propostos por Andre Yukio da Universidade dos Dados  
+# Análise e Manipulação de Dados do Dataset 'Forest Fires in Brazil' usando Pandas
 
-Base de dados utilizada: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
+Este repositório contém um Jupyter Notebook com código para tratar e manipular dados do dataset 'Forest Fires in Brazil', utilizado como exercício prático inicial com Pandas.
+
+## Dataset
+
+O dataset original pode ser encontrado em [Forest Fires in Brazil](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil). Ele fornece informações sobre focos de incêndio registrados no Brasil ao longo dos anos.
+
+## Objetivo do Projeto
+
+O objetivo deste projeto é ter uma introdução prática ao uso do Pandas para tratamento e manipulação de dados, explorando as principais funcionalidades dessa biblioteca.
+
+## Instruções de Uso
+
+Para executar o código deste projeto, é necessário ter o Jupyter Notebook instalado.  
+
+Para iniciar, abra o Jupyter Notebook e execute cada célula do arquivo `forest_fires_analysis.ipynb` na ordem em que aparecem.
+
+## Estrutura do Repositório
+
+- `forest_fires_analysis.ipynb`: Notebook principal com o código de tratamento e manipulação de dados.
+- `README.md`: Este arquivo, fornecendo informações sobre o projeto.
+
+## Créditos
+
+- Exercícios propostos por Andre Yukio da Universidade dos Dados.
+- Dataset fornecido por Gustavo Modelli no Kaggle.
+
